@@ -72,7 +72,7 @@
   
   /* Hero Style Start */
   .hero {
-    background-image: url('./secondary-styles.css/hero-bg.jpeg');
+    background-image: url('./hero-bg.jpeg');
     height: 600px;
     background-size: cover;
     background-position: center;
